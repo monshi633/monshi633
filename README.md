@@ -7,8 +7,8 @@ My studies and my working experience in many different areas showed me the poten
 
 ## I'm currently...
 🤔 looking for new opportunities that allow me to expand my knowledge and grow professionally.<br>
-🔭 working on many different projects, inlcuding game development and building tools for stock management in regular business<br>
-🌱 learning C# - Unity and improving on Java Spring Boot<br>
+🔭 working on many different projects, inlcuding indie game development and building tools for stock management in small and medium businesses<br>
+🌱 Improving my Java Spring Boot skills<br>
 
 ## Languages and technologies
 <div>
