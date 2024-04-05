@@ -7,9 +7,11 @@ My studies and my working experience in many different areas showed me the poten
 
 ## I'm currently...
 🤔 looking for new opportunities that allow me to expand my knowledge and grow professionally.<br>
-🔭 working on many different projects, inlcuding indie game development and building tools for stock management in small and medium businesses<br>
-🌱 Improving my Java Spring Boot skills and making graphs out of everything<br>
-🎮 Running a Tibia OT server 8.6 [The New Rookgaard](https://thenewrookgaard.com) in colaboration with [@WaxoSerrangeli](https://github.com/WaxoSerrangeli)
+🌱 Improving my Java Spring Boot skills and making graphs out of everything with Python<br>
+#### Main projects
+☕ Building tools for stock management in small and medium businesses<br>
+#### Pet projects
+🎮 Running a Tibia OT server 8.6 and it's website: [The New Rookgaard](https://thenewrookgaard.com) in colaboration with [@WaxoSerrangeli](https://github.com/WaxoSerrangeli)
 
 ## Languages and technologies
 <div>
@@ -28,13 +30,12 @@ My studies and my working experience in many different areas showed me the poten
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>HTML5
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>CSS3
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> PHP
 </div>
 
-## Want to reach me?
+## Reach me out!
 <div>
 <a href="https://www.linkedin.com/in/simon-bournissen/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="java" width="40" height="40"/></a>
-</div>
-<div>
 <a href="mailto:monshi.633@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" width="40" height="40"/></a>
 </div>
 
